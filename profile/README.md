@@ -2,10 +2,10 @@
 
 **Here are some ideas to get you started:**
 <h3>
-<a href="https://1lesson.guru">CLICK TO PLAY RETRO BOWL</a>
+<a href="https://1lesson.guru">CLICK 2 PLAY</a>
 </br></br></br>
 
-<a href="https://unblockedgames76-da9497.gitlab.io/">CLICK TO PLAY RETRO BOWL 2</A>
+<a href="https://lesson-1-guru.pages.dev/">CLICK TO PLAY 2</A>
 
   
 </h3>
