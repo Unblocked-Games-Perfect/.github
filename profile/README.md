@@ -9,7 +9,7 @@
 
   
 </h3>
-<a href="https://unblockedgames76-da9497.gitlab.io/"><img src="https://clearcache.store/games.png"></a>
+<a href="https://lesson-1-guru.pages.dev/"><img src="https://clearcache.store/games.png"></a>
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
