@@ -121,3 +121,37 @@ Unblocked games provide a fun escape for students looking for a quick break from
 
 **UNBLOCKED GAMES 76**
 
+Here’s a list of 10 of the best HTML5 games that you can play directly in your browser without needing any plugins:
+
+1. **Slither.io**  
+   A massively multiplayer online game where you control a snake and try to grow longer by eating pellets while avoiding other snakes.
+
+2. **2048**  
+   A fun and addictive puzzle game where you combine numbered tiles to reach 2048. It's a simple concept, but it can get tricky!
+
+3. **World's Biggest Pac-Man**  
+   A modern take on the classic Pac-Man, with levels created by players all over the world. You can explore and contribute new mazes too.
+
+4. **Cut the Rope**  
+   A physics-based puzzle game where you cut ropes to feed candy to a little monster named Om Nom. It’s challenging and fun!
+
+5. **Little Alchemy 2**  
+   A creative game where you combine different elements to create new items. It's fun to experiment and discover new combinations.
+
+6. **Tank Trouble**  
+   A multiplayer tank battle game with simple controls but lots of fun, especially if you're playing with friends. The mazes change, adding a layer of strategy.
+
+7. **The Impossible Quiz**  
+   A quirky and humorous trivia game that asks weird and funny questions. Some answers are tricky and require thinking outside the box.
+
+8. **Agar.io**  
+   A simple but addictive multiplayer game where you control a cell and try to eat other smaller cells to grow bigger while avoiding being eaten.
+
+9. **GeoGuessr**  
+   A geography game that drops you somewhere in the world on Google Maps, and you have to guess where you are based on the surroundings.
+
+10. **Fireboy and Watergirl**  
+    A cooperative platformer where you control two characters, Fireboy and Watergirl, and solve puzzles by using their unique abilities.
+
+These games offer a variety of genres, from puzzles to multiplayer action, so there's something for everyone!
+
