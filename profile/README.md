@@ -153,5 +153,5 @@ Here’s a list of 10 of the best HTML5 games that you can play directly in your
 10. **Fireboy and Watergirl**  
     A cooperative platformer where you control two characters, Fireboy and Watergirl, and solve puzzles by using their unique abilities.
 
-These games offer a variety of genres, from puzzles to multiplayer action, so there's something for everyone!
+These games offer a variety of genres, from puzzles to multiplayer action, so there's something for everyone
 
